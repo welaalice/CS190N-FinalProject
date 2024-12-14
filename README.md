@@ -3,11 +3,10 @@
 This README provides instructions on how to reproduce the results presented in the Final Project report.
 
 ## Prerequisites
-Make sure you have access to the PINOT database. This requires having a valid username and password for the database that should be filled in:
+Make sure you have access to the PINOT database. This requires having a valid username and password for the database that should be filled in here along side the host, database, and port information:
 ```
 user = "###"
 password = "###"
-***
 ```
 
 Make sure you have the following tools and libraries installed:
